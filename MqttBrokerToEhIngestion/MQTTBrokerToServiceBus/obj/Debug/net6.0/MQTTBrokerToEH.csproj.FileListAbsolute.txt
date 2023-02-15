@@ -1,0 +1,64 @@
+/Users/mateuszpielczyk/Projects/MQTTBrokerToServiceBus/MQTTBrokerToServiceBus/obj/Debug/net6.0/MQTTBrokerToEH.csproj.AssemblyReference.cache
+/Users/mateuszpielczyk/Projects/MQTTBrokerToServiceBus/MQTTBrokerToServiceBus/obj/Debug/net6.0/MQTTBrokerToEH.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateuszpielczyk/Projects/MQTTBrokerToServiceBus/MQTTBrokerToServiceBus/obj/Debug/net6.0/MQTTBrokerToEH.AssemblyInfoInputs.cache
+/Users/mateuszpielczyk/Projects/MQTTBrokerToServiceBus/MQTTBrokerToServiceBus/obj/Debug/net6.0/MQTTBrokerToEH.AssemblyInfo.cs
+/Users/mateuszpielczyk/Projects/MQTTBrokerToServiceBus/MQTTBrokerToServiceBus/obj/Debug/net6.0/MQTTBrokerToEH.csproj.CoreCompileInputs.cache
+/Users/mateuszpielczyk/Projects/MQTTBrokerToServiceBus/MQTTBrokerToServiceBus/bin/Debug/net6.0/MQTTBrokerToEH
+/Users/mateuszpielczyk/Projects/MQTTBrokerToServiceBus/MQTTBrokerToServiceBus/bin/Debug/net6.0/MQTTBrokerToEH.deps.json
+/Users/mateuszpielczyk/Projects/MQTTBrokerToServiceBus/MQTTBrokerToServiceBus/bin/Debug/net6.0/MQTTBrokerToEH.runtimeconfig.json
+/Users/mateuszpielczyk/Projects/MQTTBrokerToServiceBus/MQTTBrokerToServiceBus/bin/Debug/net6.0/MQTTBrokerToEH.dll
+/Users/mateuszpielczyk/Projects/MQTTBrokerToServiceBus/MQTTBrokerToServiceBus/bin/Debug/net6.0/MQTTBrokerToEH.pdb
+/Users/mateuszpielczyk/Projects/MQTTBrokerToServiceBus/MQTTBrokerToServiceBus/bin/Debug/net6.0/MQTTnet.dll
+/Users/mateuszpielczyk/Projects/MQTTBrokerToServiceBus/MQTTBrokerToServiceBus/obj/Debug/net6.0/MQTTBrokerToEH.csproj.CopyComplete
+/Users/mateuszpielczyk/Projects/MQTTBrokerToServiceBus/MQTTBrokerToServiceBus/obj/Debug/net6.0/MQTTBrokerToEH.dll
+/Users/mateuszpielczyk/Projects/MQTTBrokerToServiceBus/MQTTBrokerToServiceBus/obj/Debug/net6.0/refint/MQTTBrokerToEH.dll
+/Users/mateuszpielczyk/Projects/MQTTBrokerToServiceBus/MQTTBrokerToServiceBus/obj/Debug/net6.0/MQTTBrokerToEH.pdb
+/Users/mateuszpielczyk/Projects/MQTTBrokerToServiceBus/MQTTBrokerToServiceBus/obj/Debug/net6.0/MQTTBrokerToEH.genruntimeconfig.cache
+/Users/mateuszpielczyk/Projects/MQTTBrokerToServiceBus/MQTTBrokerToServiceBus/obj/Debug/net6.0/ref/MQTTBrokerToEH.dll
+/Users/mateuszpielczyk/Projects/MQTTBrokerToServiceBus/MQTTBrokerToServiceBus/bin/Debug/net6.0/Azure.Core.dll
+/Users/mateuszpielczyk/Projects/MQTTBrokerToServiceBus/MQTTBrokerToServiceBus/bin/Debug/net6.0/Azure.Core.Amqp.dll
+/Users/mateuszpielczyk/Projects/MQTTBrokerToServiceBus/MQTTBrokerToServiceBus/bin/Debug/net6.0/Azure.Messaging.EventHubs.dll
+/Users/mateuszpielczyk/Projects/MQTTBrokerToServiceBus/MQTTBrokerToServiceBus/bin/Debug/net6.0/Microsoft.Azure.Amqp.dll
+/Users/mateuszpielczyk/Projects/MQTTBrokerToServiceBus/MQTTBrokerToServiceBus/bin/Debug/net6.0/Microsoft.Azure.EventHubs.dll
+/Users/mateuszpielczyk/Projects/MQTTBrokerToServiceBus/MQTTBrokerToServiceBus/bin/Debug/net6.0/Microsoft.Azure.Services.AppAuthentication.dll
+/Users/mateuszpielczyk/Projects/MQTTBrokerToServiceBus/MQTTBrokerToServiceBus/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/mateuszpielczyk/Projects/MQTTBrokerToServiceBus/MQTTBrokerToServiceBus/bin/Debug/net6.0/Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+/Users/mateuszpielczyk/Projects/MQTTBrokerToServiceBus/MQTTBrokerToServiceBus/bin/Debug/net6.0/Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+/Users/mateuszpielczyk/Projects/MQTTBrokerToServiceBus/MQTTBrokerToServiceBus/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/mateuszpielczyk/Projects/MQTTBrokerToServiceBus/MQTTBrokerToServiceBus/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/mateuszpielczyk/Projects/MQTTBrokerToServiceBus/MQTTBrokerToServiceBus/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/mateuszpielczyk/Projects/MQTTBrokerToServiceBus/MQTTBrokerToServiceBus/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/mateuszpielczyk/Projects/MQTTBrokerToServiceBus/MQTTBrokerToServiceBus/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/mateuszpielczyk/Projects/MQTTBrokerToServiceBus/MQTTBrokerToServiceBus/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/mateuszpielczyk/Projects/MQTT-SN Solution/MQTTBrokerToServiceBus/bin/Debug/net6.0/MQTTBrokerToEH
+/Users/mateuszpielczyk/Projects/MQTT-SN Solution/MQTTBrokerToServiceBus/bin/Debug/net6.0/MQTTBrokerToEH.deps.json
+/Users/mateuszpielczyk/Projects/MQTT-SN Solution/MQTTBrokerToServiceBus/bin/Debug/net6.0/MQTTBrokerToEH.runtimeconfig.json
+/Users/mateuszpielczyk/Projects/MQTT-SN Solution/MQTTBrokerToServiceBus/bin/Debug/net6.0/MQTTBrokerToEH.dll
+/Users/mateuszpielczyk/Projects/MQTT-SN Solution/MQTTBrokerToServiceBus/bin/Debug/net6.0/MQTTBrokerToEH.pdb
+/Users/mateuszpielczyk/Projects/MQTT-SN Solution/MQTTBrokerToServiceBus/bin/Debug/net6.0/Azure.Core.dll
+/Users/mateuszpielczyk/Projects/MQTT-SN Solution/MQTTBrokerToServiceBus/bin/Debug/net6.0/Azure.Core.Amqp.dll
+/Users/mateuszpielczyk/Projects/MQTT-SN Solution/MQTTBrokerToServiceBus/bin/Debug/net6.0/Azure.Messaging.EventHubs.dll
+/Users/mateuszpielczyk/Projects/MQTT-SN Solution/MQTTBrokerToServiceBus/bin/Debug/net6.0/Microsoft.Azure.Amqp.dll
+/Users/mateuszpielczyk/Projects/MQTT-SN Solution/MQTTBrokerToServiceBus/bin/Debug/net6.0/Microsoft.Azure.EventHubs.dll
+/Users/mateuszpielczyk/Projects/MQTT-SN Solution/MQTTBrokerToServiceBus/bin/Debug/net6.0/Microsoft.Azure.Services.AppAuthentication.dll
+/Users/mateuszpielczyk/Projects/MQTT-SN Solution/MQTTBrokerToServiceBus/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/mateuszpielczyk/Projects/MQTT-SN Solution/MQTTBrokerToServiceBus/bin/Debug/net6.0/Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+/Users/mateuszpielczyk/Projects/MQTT-SN Solution/MQTTBrokerToServiceBus/bin/Debug/net6.0/Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+/Users/mateuszpielczyk/Projects/MQTT-SN Solution/MQTTBrokerToServiceBus/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/mateuszpielczyk/Projects/MQTT-SN Solution/MQTTBrokerToServiceBus/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/mateuszpielczyk/Projects/MQTT-SN Solution/MQTTBrokerToServiceBus/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/mateuszpielczyk/Projects/MQTT-SN Solution/MQTTBrokerToServiceBus/bin/Debug/net6.0/MQTTnet.dll
+/Users/mateuszpielczyk/Projects/MQTT-SN Solution/MQTTBrokerToServiceBus/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/mateuszpielczyk/Projects/MQTT-SN Solution/MQTTBrokerToServiceBus/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/mateuszpielczyk/Projects/MQTT-SN Solution/MQTTBrokerToServiceBus/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/mateuszpielczyk/Projects/MQTT-SN Solution/MQTTBrokerToServiceBus/obj/Debug/net6.0/MQTTBrokerToEH.csproj.AssemblyReference.cache
+/Users/mateuszpielczyk/Projects/MQTT-SN Solution/MQTTBrokerToServiceBus/obj/Debug/net6.0/MQTTBrokerToEH.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateuszpielczyk/Projects/MQTT-SN Solution/MQTTBrokerToServiceBus/obj/Debug/net6.0/MQTTBrokerToEH.AssemblyInfoInputs.cache
+/Users/mateuszpielczyk/Projects/MQTT-SN Solution/MQTTBrokerToServiceBus/obj/Debug/net6.0/MQTTBrokerToEH.AssemblyInfo.cs
+/Users/mateuszpielczyk/Projects/MQTT-SN Solution/MQTTBrokerToServiceBus/obj/Debug/net6.0/MQTTBrokerToEH.csproj.CoreCompileInputs.cache
+/Users/mateuszpielczyk/Projects/MQTT-SN Solution/MQTTBrokerToServiceBus/obj/Debug/net6.0/MQTTBrokerToEH.csproj.CopyComplete
+/Users/mateuszpielczyk/Projects/MQTT-SN Solution/MQTTBrokerToServiceBus/obj/Debug/net6.0/MQTTBrokerToEH.dll
+/Users/mateuszpielczyk/Projects/MQTT-SN Solution/MQTTBrokerToServiceBus/obj/Debug/net6.0/refint/MQTTBrokerToEH.dll
+/Users/mateuszpielczyk/Projects/MQTT-SN Solution/MQTTBrokerToServiceBus/obj/Debug/net6.0/MQTTBrokerToEH.pdb
+/Users/mateuszpielczyk/Projects/MQTT-SN Solution/MQTTBrokerToServiceBus/obj/Debug/net6.0/MQTTBrokerToEH.genruntimeconfig.cache
+/Users/mateuszpielczyk/Projects/MQTT-SN Solution/MQTTBrokerToServiceBus/obj/Debug/net6.0/ref/MQTTBrokerToEH.dll

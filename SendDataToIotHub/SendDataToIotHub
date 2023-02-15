@@ -1,0 +1,62 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+
+# Copyright (c) 2010-2013 Roger Light <roger@atchoo.org>
+#
+# All rights reserved. This program and the accompanying materials
+# are made available under the terms of the Eclipse Distribution License v1.0
+# which accompanies this distribution.
+#
+# The Eclipse Distribution License is available at
+#   http://www.eclipse.org/org/documents/edl-v10.php.
+#
+# Contributors:
+#    Roger Light - initial implementation
+# Copyright (c) 2010,2011 Roger Light <roger@atchoo.org>
+# All rights reserved.
+
+# This shows a simple example of an MQTT subscriber using connect_srv method.
+
+
+import paho.mqtt.client as mqtt
+
+
+def on_connect(mqttcbroker, obj, flags, rc):
+    print("Connected to %s:%s" % (mqttcbroker._host, mqttcbroker._port))
+
+def on_message(mqttcbroker, obj, msg):
+    print(msg.topic+" "+str(msg.qos)+" "+str(msg.payload))
+    mqttciothub.publish("iot_hub", "payload", qos=1)
+    infot = mqttciothub.publish("iot_hub", "payload", qos=1)
+    infot.wait_for_publish()
+
+def on_publish(mqttcbroker, obj, mid):
+    print("mid: "+str(mid))
+
+def on_subscribe(mqttcbroker, obj, mid, granted_qos):
+    print("Subscribed: "+str(mid)+" "+str(granted_qos))
+
+def on_log(mqttcbroker, obj, level, string):
+    print(string)
+
+#Define client to connect to broker
+mqttcbroker = mqtt.Client("clieny_py")
+mqttcbroker.on_message = on_message
+mqttcbroker.on_connect = on_connect
+mqttcbroker.on_publish = on_publish
+mqttcbroker.on_subscribe = on_subscribe
+mqttcbroker.on_log = on_log
+mqttcbroker.connect("", 1883, 60)
+mqttcbroker.subscribe("test_topic", 0)
+
+#Define client to connect to IoT Hub
+mqttciothub = mqtt.Client("item_iothub")
+mqttciothub.username_pw_set("")
+mqttciothub.connect("", 1883)
+mqttciothub.publish("iot_topic", msg)
+mqttciothub.disconnect()
+rc = 0
+while rc == 0:
+    rc = mqttcbroker.loop()
+
+print("rc: "+str(rc))
